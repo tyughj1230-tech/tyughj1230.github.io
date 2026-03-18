@@ -1,0 +1,92 @@
+[class^="icon-"], [class*=" icon-"], [class^="wptouch-icon-"], [class*=" wptouch-icon-"] {
+  font-family: 'wptouch-icons';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.icon-arrow-left, .wptouch-icon-arrow-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-caret-down, .wptouch-icon-caret-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-arrow-combo, .wptouch-icon-arrow-combo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-yelp, .wptouch-icon-yelp { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-key, .wptouch-icon-key { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-left-open-big, .wptouch-icon-left-open-big { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-user, .wptouch-icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-signin, .wptouch-icon-signin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-signout, .wptouch-icon-signout { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-search, .wptouch-icon-search { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-reorder, .wptouch-icon-reorder { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-basket, .wptouch-icon-basket { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-angle-right, .wptouch-icon-angle-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-angle-left, .wptouch-icon-angle-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-chevron-up, .wptouch-icon-chevron-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-chevron-down, .wptouch-icon-chevron-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-chevron-left, .wptouch-icon-chevron-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-chevron-right, .wptouch-icon-chevron-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-comment, .wptouch-icon-comment { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-comments, .wptouch-icon-comments { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-circle-arrow-left, .wptouch-icon-circle-arrow-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-circle-arrow-right, .wptouch-icon-circle-arrow-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-pencil, .wptouch-icon-pencil { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-reply, .wptouch-icon-reply { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-envelope-alt, .wptouch-icon-envelope-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-list-ul, .wptouch-icon-list-ul { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-tags, .wptouch-icon-tags { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-twitter, .wptouch-icon-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-google-plus, .wptouch-icon-google-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-google-plus-sign, .wptouch-icon-google-plus-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-facebook, .wptouch-icon-facebook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-facebook-sign, .wptouch-icon-facebook-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-instagram, .wptouch-icon-instagram { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-tumblr, .wptouch-icon-tumblr { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-pinterest, .wptouch-icon-pinterest { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-pinterest-sign, .wptouch-icon-pinterest-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-vine, .wptouch-icon-vine { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-book-open, .wptouch-icon-book-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-youtube, .wptouch-icon-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-linkedin-sign, .wptouch-icon-linkedin-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-plus, .wptouch-icon-plus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-rss-sign, .wptouch-icon-rss-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-time, .wptouch-icon-time { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-camera-retro, .wptouch-icon-camera-retro { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-play, .wptouch-icon-play { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-filter, .wptouch-icon-filter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-minus, .wptouch-icon-minus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-ok-sign, .wptouch-icon-ok-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-layout-tiles, .wptouch-icon-layout-tiles { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-layout-list, .wptouch-icon-layout-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-resize-full, .wptouch-icon-resize-full { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-cancel, .wptouch-icon-cancel { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-cancel-circled, .wptouch-icon-cancel-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-star, .wptouch-icon-star { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-remove-sign, .wptouch-icon-remove-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-map-marker, .wptouch-icon-map-marker { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-cloud, .wptouch-icon-cloud { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-cloud-download, .wptouch-icon-cloud-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-info-sign, .wptouch-icon-info-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-copy, .wptouch-icon-copy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-download, .wptouch-icon-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-external-link, .wptouch-icon-external-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-warning-sign, .wptouch-icon-warning-sign { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-compass, .wptouch-icon-compass { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-trash, .wptouch-icon-trash { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-th, .wptouch-icon-th { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-menu, .wptouch-icon-menu { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-double-angle-up, .wptouch-icon-double-angle-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-arrow-down, .wptouch-icon-arrow-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-caret-right, .wptouch-icon-caret-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-caret-left, .wptouch-icon-caret-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-caret-up, .wptouch-icon-caret-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-vimeo, .wptouch-icon-vimeo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-phone, .wptouch-icon-phone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-angle-up, .wptouch-icon-angle-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-angle-down, .wptouch-icon-angle-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-refresh, .wptouch-icon-refresh { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-info, .wptouch-icon-info { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-chat, .wptouch-icon-chat { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.icon-check, .wptouch-icon-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
